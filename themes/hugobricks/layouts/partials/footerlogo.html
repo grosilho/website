@@ -15,7 +15,7 @@
         <img src="{{ $logo }}" alt="{{ (index .Site.Data .Language.Lang).general.title }} logo" />
     {{ else }}
         <div class="{{ if $subtitle }}has_subtitle{{ end}}">
-            <img src="{{ $favicon }}" alt="{{ $title }} logo" class="inline black_2_textDark" />
+            {{/*  <img src="{{ $favicon }}" alt="{{ $title }} logo" class="inline black_2_textDark" />  */}}
             <div>
                 <span>{{ $title }}</span>
                 {{ if $subtitle }}<span>{{ $subtitle }}</span>{{ end }}

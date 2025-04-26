@@ -64,7 +64,7 @@
             </ul>
           </nav>
         </div>
-        <div>
+        {{/*  <div>
 		      {{- if (index .Site.Data .Language.Lang).webshop.show_cart_icon -}}
           <a href="{{ (index .Site.Data .Language.Lang).webshop.cart_link }}">
             <img src="/img/shopping-cart.svg" alt="Shopping cart icon" class="black_2_textDark" />
@@ -91,7 +91,7 @@
           {{ if (index .Site.Data .Language.Lang).header.cta.active }}
           <a href="{{ (index .Site.Data .Language.Lang).header.cta.link }}" class="button smaller">{{ (index .Site.Data .Language.Lang).header.cta.title }}</a>
 		      {{ end }}
-        </div>
+        </div>  */}}
         <button id="togglemenu" onclick="event.stopPropagation(); document.body.classList.add('menushown');"><span class="black_2_textDark">Toggle menu</span></button>
         <script>
           function navClick(event,el) {

@@ -3,10 +3,10 @@ checkout_link: /checkout
 payment_link: /payment
 thankyou_link: /thankyou
 products_link: /webshop
-show_cart_icon: true
-send_order_to_mail: joost@vdschee.nl
-currency_code: USD
-currency_symbol: $
+show_cart_icon: false
+send_order_to_mail: 
+currency_code: CHF
+currency_symbol: CHF
 shipping:
   active: true
   options:
