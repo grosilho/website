@@ -1,22 +1,19 @@
 logo_image:
 menuitems:
-  - title: About
-    link:  /about/
-  - title: Elements
-    link:  /elements/
-  - title: Privacy policy
-    link:  /privacy-policy/
+  # - title: About
+  #   link:  /about/
+  # - title: Elements
+  #   link:  /elements/
+  # - title: Privacy policy
+  #   link:  /privacy-policy/
 socials:
-  - title: Facebook
-    link: https://facebook.com
-    logo_image: /img/facebook.svg
-  - title: Twitter
-    link: https://twitter.com
-    logo_image: /img/twitter.svg      
-  - title: Mastodon
-    link: https://joinmastodon.org
-    logo_image: /img/mastodon.svg      
-  - title: Instagram
-    link: https://instagram.com
-    logo_image: /img/instagram.svg
+  - title: Github
+    link: https://github.com/grosilho
+    logo_image: /img/github-mark.svg
+  - title: LinkedIn
+    link: https://www.linkedin.com/in/grosilho/
+    logo_image: /img/linkedin.svg
+  - title: Google scholar
+    link: https://scholar.google.com/citations?user=88Aul6QAAAAJ&hl=en&oi=ao
+    logo_image: /img/google_scholar.png
 footer_text: This theme is open source. More info on [Github](https://github.com/jhvanderschee/hugobricks)!

@@ -3,59 +3,79 @@ logo_subtitle: Rosilho de Souza
 dark_header: false
 mobile_view_width: 1100
 menuitems:
-  - title: Headers
-    link: /headers/
-    items:
-      - title: Title
-        link: /header-with-title/
-      - title: Content block
-        link: /header-with-content/
-      - title: Dark preheader
-        link: /header-dark/
-      - title: Dark nav
-        link: /header-darker/
-      - title: Transparent nav
-        link: /header-transparent/
-  - title: Pages
-    link: /about/
+  - title: Home
+    link: /
+  - title: Research Output
+    link: /research-output/
     items: 
-      - title: About
-        link: /about/
-      - title: Basic page 1
-        link: /basic/
-      - title: Basic page 2
-        link: /basic2/
-      - title: Images
-        link: /images/
-      - title: Our team
-        link: /team/
-      - title: Services
-        link: /services/
-      - title: Blog
-        link: /blog/
-      - title: Contact us
-        link: /contact/
-      - title: F.A.Q.
-        link: /faq/
-      - title: Webshop
-        link: /webshop/
-      - title: 404 Page
-        link: /404.html
-  - title: Elements
-    link: /elements/
-  - title: Docs
-    link: /docs/
-  - title: Examples
-    link: /demo-paragliding/
+      - title: Publications
+        link: /publications/
+      - title: Presentations
+        link: /presentations/
+      - title: Software
+        link: /software/
+  - title: Teaching
+    link: /teaching/
     items: 
-      - title: Paragliding
-        link: /demo-paragliding/
-      - title: Hiking
-        link: /demo-hiking/
-      - title: Poulterer
-        link: /demo-poulterer/
-      - title: POS software
-        link: /demo-pos/
+      - title: Courses
+        link: /courses/
+      - title: Supervision
+        link: /supervision/
+  - title: Curriculum Vitae
+    link: /cv/
+  # - title: Headers
+  #   link: /headers/
+  #   items:
+  #     - title: Title
+  #       link: /header-with-title/
+  #     - title: Content block
+  #       link: /header-with-content/
+  #     - title: Dark preheader
+  #       link: /header-dark/
+  #     - title: Dark nav
+  #       link: /header-darker/
+  #     - title: Transparent nav
+  #       link: /header-transparent/
+  # - title: Pages
+  #   link: /about/
+  #   items: 
+  #     - title: About
+  #       link: /about/
+  #     - title: Basic page 1
+  #       link: /basic/
+  #     - title: Basic page 2
+  #       link: /basic2/
+  #     - title: Images
+  #       link: /images/
+  #     - title: Our team
+  #       link: /team/
+  #     - title: Services
+  #       link: /services/
+  #     - title: Blog
+  #       link: /blog/
+  #     - title: Contact us
+  #       link: /contact/
+  #     - title: F.A.Q.
+  #       link: /faq/
+  #     - title: Webshop
+  #       link: /webshop/
+  #     - title: 404 Page
+  #       link: /404.html
+  # - title: Elements
+  #   link: /elements/
+  # - title: Docs
+  #   link: /docs/
+  # - title: Examples
+  #   link: /demo-paragliding/
+  #   items: 
+  #     - title: Paragliding
+  #       link: /demo-paragliding/
+  #     - title: Hiking
+  #       link: /demo-hiking/
+  #     - title: Poulterer
+  #       link: /demo-poulterer/
+  #     - title: POS software
+  #       link: /demo-pos/
 cta:
   active: false
   title: Get started

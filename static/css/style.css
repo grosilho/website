@@ -13,8 +13,8 @@
     --textMedium: rgba(38, 50, 56, 0.7);
     --borderMedium: rgba(38, 50, 56, 0.2);
     --borderLight: rgba(38, 50, 56, 0.075);
-    --accent: #207e0d;
-    --accentDarker: #198406;
+    --accent: #2e7d32;
+    --accentDarker: #1b5e20;
     --light: rgba(38, 50, 56, 0.035);
 }
 /*------------------------*/
@@ -45,7 +45,7 @@ img {filter: grayscale(0);}
 /* black_2_accent
 /*------------------------*/
 
-.black_2_accent {filter: contrast(0.11) sepia(1) hue-rotate(340deg) contrast(13)!important;}
+.black_2_accent {filter: contrast(0.11) sepia(1) hue-rotate(340deg) contrast(13)!important;} */
 
 
 /*------------------------ CSS overrides below ------------------------*/
