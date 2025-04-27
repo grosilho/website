@@ -48,7 +48,6 @@ Applied mathematician expert in numerical methods, differential equations, stoch
 - boundary element methods
 
 {{< gallery dir="/uploads/photos/research_interests/single/" >}}
-{{< gallery dir="/uploads/gallery/" >}}
 {{< /brick_wide >}}
 <!-- {{< brick_image >}}
 
