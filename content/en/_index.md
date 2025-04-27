@@ -4,7 +4,7 @@ title: Home
 {{< brick_about >}}
 
 <p>
-<img src="/uploads/photos/avatars/giacomo_lq.jpg" alt="Giacomo Rosilho de Souza" />
+<img src="/uploads/photos/me/giacomo.jpg" alt="Giacomo Rosilho de Souza" />
 </p>
 
 # Giacomo
@@ -19,7 +19,8 @@ Applied mathematician expert in numerical methods, differential equations, stoch
 
 ## Research interests
 
-![](/uploads/illustrations/cuate/responsive.svg)
+![](/uploads/photos/research_interests/all.png)
+<!-- <img src="/uploads/photos/research_interests/all.png" alt="alt text" width="300" /> -->
 
 - stochastic differential equations and Monte Carlo methods
 - explicit stabilized methods
@@ -32,6 +33,22 @@ Applied mathematician expert in numerical methods, differential equations, stoch
 - boundary element methods
 
 {{< /brick_image2 >}}
+
+{{< brick_wide >}}
+## Research interests
+
+- stochastic differential equations and Monte Carlo methods
+- explicit stabilized methods
+- time integration of large multi scale problems
+- parallel-in-time methods
+- stabilized optimization methods
+- mixed-precision algorithms
+- tau-leap methods for chemical kinetics
+- discontinuous finite element methods
+- boundary element methods
+
+{{< gallery dir="/uploads/photos/research_interests/single/" >}}
+{{< /brick_wide >}}
 <!-- {{< brick_image >}}
 
 ## What bricks are available?
