@@ -22,11 +22,12 @@ Applied mathematician expert in numerical methods, differential equations, stoch
 ![](/uploads/photos/research_interests/all.png)
 <!-- <img src="/uploads/photos/research_interests/all.png" alt="alt text" width="300" /> -->
 
-- stochastic differential equations and Monte Carlo methods
+- stochastic differential equations
+- Monte Carlo methods
 - explicit stabilized methods
 - time integration of large multi scale problems
 - parallel-in-time methods
-- stabilized optimization methods
+- optimization methods
 - mixed-precision algorithms
 - tau-leap methods for chemical kinetics
 - discontinuous finite element methods
@@ -34,7 +35,7 @@ Applied mathematician expert in numerical methods, differential equations, stoch
 
 {{< /brick_image2 >}}
 
-{{< brick_wide >}}
+<!-- {{< brick_wide >}}
 ## Research interests
 
 - stochastic differential equations and Monte Carlo methods
@@ -48,15 +49,4 @@ Applied mathematician expert in numerical methods, differential equations, stoch
 - boundary element methods
 
 {{< gallery dir="/uploads/photos/research_interests/single/" >}}
-{{< /brick_wide >}}
-<!-- {{< brick_image >}}
-
-## What bricks are available?
-
-![](/uploads/illustrations/cuate/version-control.svg)
-
-We aim to provide the following bricks: intro, title, image, cta, contact, team, testimonials, about, pricing, products, product, usps, stats, gallery, quote, faqs, brands, video, blogs, post, related. 
-
-We are constantly adding bricks and shortcodes to this theme. Are you missing a brick or a shortcode? [Let us know](/contact/)! We will build it for you!
-
-{{< /brick_image >}} -->
+{{< /brick_wide >}} -->
