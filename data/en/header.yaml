@@ -5,77 +5,24 @@ mobile_view_width: 1100
 menuitems:
   - title: Home
     link: /
-  - title: Research Output
-    link: /research/output/
-    items: 
-      - title: Publications
-        link: /research/publications/
-      - title: Presentations
-        link: /research/presentations/
-      - title: Software
-        link: /research/software/
-  - title: Teaching
-    link: /teaching/
-    items: 
-      - title: Courses
-        link: /courses/
-      - title: Supervision
-        link: /supervision/
-  - title: Curriculum Vitae
-    link: /cv/
-  # - title: Headers
-  #   link: /headers/
-  #   items:
-  #     - title: Title
-  #       link: /header-with-title/
-  #     - title: Content block
-  #       link: /header-with-content/
-  #     - title: Dark preheader
-  #       link: /header-dark/
-  #     - title: Dark nav
-  #       link: /header-darker/
-  #     - title: Transparent nav
-  #       link: /header-transparent/
-  # - title: Pages
-  #   link: /about/
+  # - title: Research Output
+  #   link: /research/output/
   #   items: 
-  #     - title: About
-  #       link: /about/
-  #     - title: Basic page 1
-  #       link: /basic/
-  #     - title: Basic page 2
-  #       link: /basic2/
-  #     - title: Images
-  #       link: /images/
-  #     - title: Our team
-  #       link: /team/
-  #     - title: Services
-  #       link: /services/
-  #     - title: Blog
-  #       link: /blog/
-  #     - title: Contact us
-  #       link: /contact/
-  #     - title: F.A.Q.
-  #       link: /faq/
-  #     - title: Webshop
-  #       link: /webshop/
-  #     - title: 404 Page
-  #       link: /404.html
-  # - title: Elements
-  #   link: /elements/
-  # - title: Docs
-  #   link: /docs/
-  # - title: Examples
-  #   link: /demo-paragliding/
+  #     - title: Publications
+  #       link: /research/publications/
+  #     - title: Presentations
+  #       link: /research/presentations/
+  #     - title: Software
+  #       link: /research/software/
+  # - title: Teaching
+  #   link: /teaching/
   #   items: 
-  #     - title: Paragliding
-  #       link: /demo-paragliding/
-  #     - title: Hiking
-  #       link: /demo-hiking/
-  #     - title: Poulterer
-  #       link: /demo-poulterer/
-  #     - title: POS software
-  #       link: /demo-pos/
+  #     - title: Courses
+  #       link: /courses/
+  #     - title: Supervision
+  #       link: /supervision/
+  # - title: Curriculum Vitae
+  #   link: /cv/
 cta:
   active: false
   title: Get started
