@@ -9,11 +9,11 @@ menuitems:
     link: /research_output/
     items: 
       - title: Publications
-        link: /research/publications/
-  #     - title: Presentations
-  #       link: /research/presentations/
-  #     - title: Software
-  #       link: /research/software/
+        link: /services/publications/
+      - title: Conferences
+        link: /services/conferences/
+      - title: Software
+        link: /services/software/
   # - title: Teaching
   #   link: /teaching/
   #   items: 

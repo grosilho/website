@@ -22,7 +22,7 @@
         </div>
         {{ end }}
     </div>
-    <div class="container wide">
+    {{/*  <div class="container wide">
         {{- $postimage := `/uploads/gallery/01.jpg` -}}
         {{- if page.Params.image -}}
             {{- $postimage = page.Params.image -}}
@@ -31,7 +31,7 @@
             {{- $postimage = ((resources.GetMatch $postimage).Fill `1600x800 jpg Smart q50`).RelPermalink -}}
         {{- end -}}
         <img src="{{ $postimage }}" alt="{{ .Title }}" class="featuredimage" />
-    </div>
+    </div>  */}}
     <div class="container post">
         {{ page.Content }}
     </div>
