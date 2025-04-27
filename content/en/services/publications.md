@@ -7,16 +7,11 @@ weight: 1
 
 
 {{< brick_wide >}}
-<!-- <h2 style="text-align: center;">
-High-order parallel-in-time method for the monodomain equation in cardiac electrophysiology
-</h2>
-<div style="text-align: center;">
-Giacomo Rosilho de Souza, Simone Pezzuto, and Rolf Krause
-</div>
-<i>Submitted to SIAM Journal on Scientific Computing.</i> -->
-## High-order parallel-in-time method for the monodomain equation in cardiac electrophysiology
-Giacomo Rosilho de Souza, Simone Pezzuto, and Rolf Krause
-*Submitted to SIAM Journal on Scientific Computing.*
+{{< publication 
+"High-order parallel-in-time method for the monodomain equation in cardiac electrophysiology" 
+"Giacomo Rosilho de Souza, Simone Pezzuto, and Rolf Krause"
+"Submitted to SIAM Journal on Scientific Computing."
+>}}
 <ul class="mybuttons">
         <li><a href="http://arxiv.org/abs/2405.19994" class="button myicon"><img src="/img/arxiv.svg" alt="arxiv" /></a></li>
         <li><a href="https://github.com/grosilho/pySDC" class="button myicon"><img src="/img/github-mark.svg" alt="github" /></a></li>
@@ -28,10 +23,11 @@ Simulation of the monodomain equation, crucial for modeling the heart’s electr
 
 
 {{< brick_wide >}}
-## Boundary integral formulation of the cell-by-cell model of cardiac electrophysiology
-Giacomo Rosilho de Souza, Rolf Krause, and Simone Pezzuto
-<br>
-*Engineering Analysis with Boundary Elements 158 (2024): 239–51.*
+{{< publication 
+"Boundary integral formulation of the cell-by-cell model of cardiac electrophysiology"
+"Giacomo Rosilho de Souza, Rolf Krause, and Simone Pezzuto"
+"Engineering Analysis with Boundary Elements 158 (2024): 239–51."
+>}}
 <ul class="mybuttons">
         <li><a href="https://doi.org/10.1016/j.enganabound.2023.10.021" class="button myicon"><img src="/img/doi.svg" alt="DOI" /></a></li>
         <li><a href="https://arxiv.org/abs/2302.05281" class="button myicon"><img src="/img/arxiv.svg" alt="arxiv" /></a></li>
@@ -44,10 +40,11 @@ We propose a boundary element method for the accurate solution of the cell-by-ce
 
 
 {{< brick_wide >}}
-## Explicit stabilized multirate methods for the monodomain model in cardiac electrophysiology
-Giacomo Rosilho de Souza, Marcus Grote, Simone Pezzuto, and Rolf Krause
-<br>
-*ESAIM: Mathematical Modelling and Numerical Analysis, 2024.*
+{{< publication 
+"Explicit stabilized multirate methods for the monodomain model in cardiac electrophysiology"
+"Giacomo Rosilho de Souza, Marcus Grote, Simone Pezzuto, and Rolf Krause"
+"ESAIM: Mathematical Modelling and Numerical Analysis, 2024."
+>}}
 <ul class="mybuttons">
         <li><a href="https://doi.org/10.1051/m2an/2024030" class="button myicon"><img src="/img/doi.svg" alt="DOI" /></a></li>
         <li><a href="https://arxiv.org/abs/2401.01745" class="button myicon"><img src="/img/arxiv.svg" alt="arxiv" /></a></li>
@@ -60,10 +57,11 @@ Fully explicit stabilized multirate (mRKC) methods are well-suited for the numer
 
 
 {{< brick_wide >}}
-## Optimal explicit stabilized postprocessed τ-leap method for the simulation of chemical kinetics
-Assyr Abdulle, Lia Gander, and Giacomo Rosilho de Souza
-<br>
-*Journal of Computational Physics, 2023, 112482.*
+{{< publication 
+"Optimal explicit stabilized postprocessed τ-leap method for the simulation of chemical kinetics"
+"Assyr Abdulle, Lia Gander, and Giacomo Rosilho de Souza"
+"Journal of Computational Physics, 2023, 112482."
+>}}
 <ul class="mybuttons">
         <li><a href="https://doi.org/10.1016/j.jcp.2023.112482" class="button myicon"><img src="/img/doi.svg" alt="DOI" /></a></li>
         <li><a href="https://arxiv.org/abs/2106.09339" class="button myicon"><img src="/img/arxiv.svg" alt="arxiv" /></a></li>
@@ -76,10 +74,11 @@ The simulation of chemical kinetics involving multiple scales constitutes a mode
 
 
 {{< brick_wide >}}
-## Effect of Gap Junction Distribution, Size, and Shape on the Conduction Velocity in a Cell-by-Cell Model for Electrophysiology
-Giacomo Rosilho de Souza, Simone Pezzuto, and Rolf Krause
-<br>
-*In Functional Imaging and Modeling of the Heart, 117–26. Springer Nature Switzerland, 2023.*
+{{< publication
+"Effect of Gap Junction Distribution, Size, and Shape on the Conduction Velocity in a Cell-by-Cell Model for Electrophysiology"
+"Giacomo Rosilho de Souza, Simone Pezzuto, and Rolf Krause"
+"In Functional Imaging and Modeling of the Heart, 117–26. Springer Nature Switzerland, 2023."
+>}}
 <ul class="mybuttons">
         <li><a href="https://doi.org/10.1007/978-3-031-35302-4_12" class="button myicon"><img src="/img/doi.svg" alt="DOI" /></a></li>
         <li><a href="https://github.com/grosilho/BEMI" class="button myicon"><img src="/img/github-mark.svg" alt="github" /></a></li>
@@ -91,10 +90,11 @@ Gap junction arrangement is a major determinant of cardiac conduction velocity. 
 
 
 {{< brick_wide >}}
-## Mixed-precision explicit stabilized Runge-Kutta methods for single- and multi-scale differential equations
-Matteo Croci and Giacomo Rosilho de Souza
-<br>
-*Journal of Computational Physics 464 (2022).*
+{{< publication
+"Mixed-precision explicit stabilized Runge-Kutta methods for single- and multi-scale differential equations"
+"Matteo Croci and Giacomo Rosilho de Souza"
+"Journal of Computational Physics 464 (2022)."
+>}}
 <ul class="mybuttons">
         <li><a href="https://doi.org/10.1016/j.jcp.2022.111349" class="button myicon"><img src="/img/doi.svg" alt="DOI" /></a></li>
         <li><a href="https://arxiv.org/abs/2109.12153" class="button myicon"><img src="/img/arxiv.svg" alt="arxiv" /></a></li>
@@ -106,10 +106,11 @@ Mixed-precision algorithms combine low- and high-precision computations in order
 
 
 {{< brick_wide >}}
-## Explicit stabilized multirate method for stiff stochastic differential equations
-Assyr Abdulle and Giacomo Rosilho de Souza
-<br>
-*SIAM Journal on Scientific Computing 44, fasc. 4 (2022): A1859–83.*
+{{< publication
+"Explicit stabilized multirate method for stiff stochastic differential equations"
+"Assyr Abdulle and Giacomo Rosilho de Souza"
+"SIAM Journal on Scientific Computing 44, fasc. 4 (2022): A1859–83."
+>}}
 <ul class="mybuttons">
         <li><a href="https://doi.org/10.1137/21M1439018" class="button myicon"><img src="/img/doi.svg" alt="DOI" /></a></li>
         <li><a href="https://arxiv.org/abs/2010.15193" class="button myicon"><img src="/img/arxiv.svg" alt="arxiv" /></a></li>
@@ -122,10 +123,11 @@ Stabilized explicit methods are particularly efficient for large systems of stif
 
 
 {{< brick_wide >}}
-## A local adaptive discontinuous Galerkin method for convection-diffusion-reaction equations
-Assyr Abdulle and Giacomo Rosilho de Souza
-<br>
-*Journal of Computational Physics 451 (2022).*
+{{< publication
+"A local adaptive discontinuous Galerkin method for convection-diffusion-reaction equations"
+"Assyr Abdulle and Giacomo Rosilho de Souza"
+"Journal of Computational Physics 451 (2022)."
+>}}
 <ul class="mybuttons">
         <li><a href="https://doi.org/10.1016/j.jcp.2021.110894" class="button myicon"><img src="/img/doi.svg" alt="DOI" /></a></li>
         <li><a href="https://arxiv.org/abs/2004.07148" class="button myicon"><img src="/img/arxiv.svg" alt="arxiv" /></a></li>
@@ -137,10 +139,11 @@ We introduce a local adaptive discontinuous Galerkin method for convection-diffu
 
 
 {{< brick_wide >}}
-## Explicit stabilized multirate method for stiff differential equations
-Assyr Abdulle, Marcus Grote, and Giacomo Rosilho de Souza
-<br>
-*Mathematics of Computation 91, fasc. 338 (2022): 2681–2714.*
+{{< publication
+"Explicit stabilized multirate method for stiff differential equations"
+"Assyr Abdulle, Marcus Grote, and Giacomo Rosilho de Souza"
+"Mathematics of Computation 91, fasc. 338 (2022): 2681–2714."
+>}}
 <ul class="mybuttons">
         <li><a href="https://doi.org/10.1090/mcom/3753" class="button myicon"><img src="/img/doi.svg" alt="DOI" /></a></li>
         <li><a href="https://arxiv.org/abs/2006.00744" class="button myicon"><img src="/img/arxiv.svg" alt="arxiv" /></a></li>
@@ -153,10 +156,11 @@ Stabilized Runge-Kutta methods are especially efficient for the numerical soluti
 
 
 {{< brick_wide >}}
-## A local discontinuous Galerkin gradient discretization method for linear and quasilinear elliptic equations
-Assyr Abdulle and Giacomo Rosilho de Souza
-<br>
-*ESAIM: Mathematical Modelling and Numerical Analysis 53, fasc. 4 (2019): 1269–1303.*
+{{< publication
+"A local discontinuous Galerkin gradient discretization method for linear and quasilinear elliptic equations"
+"Assyr Abdulle and Giacomo Rosilho de Souza"
+"ESAIM: Mathematical Modelling and Numerical Analysis 53, fasc. 4 (2019): 1269–1303."
+>}}
 <ul class="mybuttons">
         <li><a href="https://doi.org/10.1051/m2an/2019022" class="button myicon"><img src="/img/doi.svg" alt="DOI" /></a></li>
         <li><a href="https://arxiv.org/abs/1807.10645" class="button myicon"><img src="/img/arxiv.svg" alt="arxiv" /></a></li>
@@ -168,10 +172,11 @@ A local weighted discontinuous Galerkin gradient discretization method for solvi
 
 
 {{< brick_wide >}}
-## Numerical methods for deterministic and stochastic differential equations with multiple scales and high contrasts
-Giacomo Rosilho de Souza
-<br>
-*PhD thesis*
+{{< publication
+"Numerical methods for deterministic and stochastic differential equations with multiple scales and high contrasts"
+"Giacomo Rosilho de Souza"
+"PhD thesis"
+>}}
 <ul class="mybuttons">
         <li><a href="https://doi.org/10.5075/epfl-thesis-7445" class="button myicon"><img src="/img/doi.svg" alt="DOI" /></a></li>
 </ul>
