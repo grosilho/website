@@ -7,13 +7,19 @@ menuitems:
   # - title: Privacy policy
   #   link:  /privacy-policy/
 socials:
-  - title: Github
-    link: https://github.com/grosilho
-    logo_image: /img/github-mark.svg
+  - title: Email
+    link: mailto:giacomo.rosilhodesouza@gmail.com
+    logo_image: /img/email.svg
   - title: LinkedIn
     link: https://www.linkedin.com/in/grosilho/
     logo_image: /img/linkedin.svg
+  - title: Github
+    link: https://github.com/grosilho
+    logo_image: /img/github-mark.svg
   - title: Google scholar
     link: https://scholar.google.com/citations?user=88Aul6QAAAAJ&hl=en&oi=ao
     logo_image: /img/google_scholar.png
+  - title: Orcid
+    link: https://orcid.org/0000-0002-0176-8455
+    logo_image: /img/orcid.svg
 footer_text: This theme is open source. More info on [Github](https://github.com/jhvanderschee/hugobricks)!

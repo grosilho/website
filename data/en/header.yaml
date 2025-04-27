@@ -6,14 +6,14 @@ menuitems:
   - title: Home
     link: /
   - title: Research Output
-    link: /research-output/
+    link: /research/output/
     items: 
       - title: Publications
-        link: /publications/
+        link: /research/publications/
       - title: Presentations
-        link: /presentations/
+        link: /research/presentations/
       - title: Software
-        link: /software/
+        link: /research/software/
   - title: Teaching
     link: /teaching/
     items: 
