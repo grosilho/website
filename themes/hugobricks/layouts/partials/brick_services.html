@@ -11,13 +11,13 @@
         {{- markdownify $inner -}}
     </div>{{ end }}
     <div class="container">
-        <div class="filter">
+        {{/*  <div class="filter">
             <select id="filter" class="multiselecttags numbers_{{ page.Site.Data.settings.filter_has_numbers }}" multiple autocomplete="off">
                 {{ range $name, $taxonomy := page.Site.Taxonomies.tags }}
                     <option value="{{ $name | urlize }}">{{ $name }}</option>
                 {{ end }}
             </select>
-        </div>
+        </div>  */}}
         <ul class="contentitems grid posts" data-pagesize="{{ if page.Site.Data.settings.show_all_services }}99{{ else }}{{ page.Site.Data.settings.page_size }}{{ end }}">
             {{ range $index,$service := $services }}                
                 <li class="item{{ range .Params.tags }} tag_{{ . }}{{ end }}">
@@ -34,8 +34,9 @@
                         </div>
                         {{ end }}
                         <div class="summary">
-                            <p>{{ substr (.Summary | plainify) 0 190 | safeHTML }}...</p>
-                            <p><a href="{{ .RelPermalink }}" class="button ghost smaller">{{ i18n "Read more" }}</a></p>
+                            {{/*  <p>{{ substr (.Summary | plainify) 0 190 | safeHTML }}...</p>  */}}
+                            <p>{{ .Params.summary }}</p>
+                            {{/*  <p><a href="{{ .RelPermalink }}" class="button ghost smaller">{{ i18n "Read more" }}</a></p>  */}}
                         </div>
                 </li>
             {{ end }}

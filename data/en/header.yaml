@@ -5,11 +5,11 @@ mobile_view_width: 1100
 menuitems:
   - title: Home
     link: /
-  # - title: Research Output
-  #   link: /research/output/
-  #   items: 
-  #     - title: Publications
-  #       link: /research/publications/
+  - title: Research Output
+    link: /research_output/
+    items: 
+      - title: Publications
+        link: /research/publications/
   #     - title: Presentations
   #       link: /research/presentations/
   #     - title: Software
