@@ -11,7 +11,7 @@ weight: 1
 
 # Publications
 
-A comprehensive list of my publications, including titles, journals, abstracts, and links to the published articles, corresponding arXiv preprints, and source code used for generating the results.
+A comprehensive list of my publications, including titles, journals, abstracts, and links to the published articles (<img src="/img/doi.svg" alt="pdf" style="display: inline; width: 1.0rem; height: 1.0rem; margin: 0rem 0rem -0.15rem 0rem"/>), corresponding arXiv preprints (<img src="/img/arxiv.svg" alt="pdf" style="display: inline; width: 1.0rem; height: 1.0rem; margin: 0rem 0rem -0.15rem 0rem"/>), and source code used for generating the results (<img src="/img/github-mark.svg" alt="pdf" style="display: inline; width: 1.0rem; height: 1.0rem; margin: 0rem 0rem -0.15rem 0rem"/>).
 
 <!-- {{< breadcrumbs >}} -->
 

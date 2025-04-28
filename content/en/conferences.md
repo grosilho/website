@@ -12,7 +12,7 @@ weight: 2
 
 # Conferences
 
-A curated list of my conference presentations, along with links to the corresponding slides.
+A curated list of my conference presentations, along with links (<img src="/img/pdf.svg" alt="pdf" style="display: inline; width: 1.0rem; height: 1.0rem; margin: 0rem 0rem -0.15rem 0rem"/>) to the corresponding slides.
 
 <!-- {{< breadcrumbs >}} -->
 

@@ -1,8 +1,10 @@
 {{- $title := .Get 0 -}}
 {{- $link := .Get 1 -}}
 {{- $description := .Get 2 -}}
+{{- $icon := .Get 3 -}}
 <div style="display: flex; align-items: center; gap: 0.0rem;">
     <h3>{{ $title }}</h3>
+    <img src="/img/{{ $icon }}.png" alt="{{ $icon }}" style="display: inline; width: 1.0rem; height: 1.0rem; margin: 1rem 0rem 0rem 0.6rem" />
     <a href="{{ $link }}" class="button myicon">
         <img src="/img/github-mark.svg" alt="github" style="display: inline; width: 1.0rem; height: 1.0rem; margin: 1rem 0rem 0.0rem 0rem" />
     </a>
