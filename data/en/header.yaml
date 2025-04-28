@@ -21,8 +21,8 @@ menuitems:
   #       link: /courses/
   #     - title: Supervision
   #       link: /supervision/
-  # - title: Curriculum Vitae
-  #   link: /cv/
+  - title: Curriculum Vitae
+    link: /cv/
 cta:
   active: false
   title: Get started
