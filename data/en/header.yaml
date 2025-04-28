@@ -5,15 +5,21 @@ mobile_view_width: 1100
 menuitems:
   - title: Home
     link: /
-  - title: Research Output
-    link: /research_output/
-    items: 
-      - title: Publications
-        link: /services/publications/
-      - title: Conferences
-        link: /services/conferences/
-      - title: Software
-        link: /services/software/
+  # - title: Research Output
+  #   link: /research_output/
+  #   items: 
+  #     - title: Publications
+  #       link: /services/publications/
+  #     - title: Conferences
+  #       link: /services/conferences/
+  #     - title: Software
+  #       link: /services/software/
+  - title: Publications
+    link: /publications/
+  - title: Conferences
+    link: /conferences/
+  - title: Software
+    link: /software/
   # - title: Teaching
   #   link: /teaching/
   #   items: 
