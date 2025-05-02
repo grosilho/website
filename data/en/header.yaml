@@ -20,6 +20,8 @@ menuitems:
     link: /conferences/
   - title: Software
     link: /software/
+  - title: Portfolio
+    link: /portfolio/_build/html/index.html
   # - title: Teaching
   #   link: /teaching/
   #   items: 
