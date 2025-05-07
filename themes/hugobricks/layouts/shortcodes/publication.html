@@ -1,11 +1,36 @@
 {{- $title := .Get 0 -}}
 {{- $authors := .Get 1 -}}
 {{- $journal := .Get 2 -}}
-<h3 style="text-align: center;">
+{{- $keywords := .Get 3 -}}
+{{- $link_doi := .Get 4 -}}
+{{- $link_arxiv := .Get 5 -}}
+{{- $link_github := .Get 6 -}}
+{{- $abstract := .Get 7 -}}
+<div>
+<i style="margin: 0px 0px 0px 0px;">
+{{ $journal }}
+</i>
+<h3 style="text-align: center; margin: -10px 0px 0px 0px;"> <!-- Reduced top margin -->
 {{ $title }}
 </h3>
+</div>
 <div style="text-align: center;">
 {{ $authors }}
-<br>
-<i>{{ $journal }}</i>
+</div>
+<ul class="mybuttons">
+    {{- if $link_doi }}
+    <li><a href="{{ $link_doi }}" class="button myicon"><img src="/img/doi.svg" alt="doi" /></a></li>
+    {{- end }}
+    {{- if $link_arxiv }}
+    <li><a href="{{ $link_arxiv }}" class="button myicon"><img src="/img/arxiv.svg" alt="arxiv" /></a></li>
+    {{- end }}
+    {{- if $link_github }}
+    <li><a href="{{ $link_github }}" class="button myicon"><img src="/img/github-mark.svg" alt="github" /></a></li>
+    {{- end }}
+</ul>
+<div style="text-align: left; margin: 10px 0px 10px 0px;">
+<b>Keywords: </b>{{ $keywords }}.
+</div>
+<div style="font-size: 0.9em;">
+<b>Abstract. </b>{{ $abstract | safeHTML}}
 </div>
