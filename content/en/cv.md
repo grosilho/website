@@ -102,10 +102,10 @@ First parallel-in-time scheme for heart simulations on 1000+ processors (Python)
 ### SKILLS
 
 #### Applied Mathematics
-- **Numerical methods for time:** parallel-in-time, explicit stabilized methods, stiff and geometric methods, nonlinear multigrid for time, mixed-precision methods, multi-scale methods.
+- **Numerical methods for time:** parallel-in-time, explicit stabilized methods, stabilization, stiff and geometric methods, nonlinear multigrid for time, mixed-precision methods, multi-scale methods, Ruge-Kutta methods, exponential methods, spectral deferred correction.
 - **Numerical methods for space:** finite elements, finite differences, discontinuous Galerkin, boundary elements.
-- **Stochastics:** stochastic calculus, probability theory, Monte Carlo methods, multi-scale integration, jump-diffusion processes, tau-leap methods.
-- **Miscellaneous:** optimization methods, statistics, Bayesian inference, differential equations.
+- **Stochastics:** stochastic calculus, probability theory, Monte Carlo methods, multi-scale integration, jump-diffusion processes, tau-leap methods, stochastic simulation algorithm.
+- **Miscellaneous:** dynamial systems, optimization methods, numerical linear algebra, statistics, Bayesian inference, differential equations.
 
 #### Computer Science
 - **Programming languages:** C++, Python, MATLAB, Fortran, SQL.
