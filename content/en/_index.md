@@ -22,11 +22,11 @@ Applied mathematician expert in numerical methods, differential equations, stoch
 ![](/uploads/photos/research_interests/all.png)
 <!-- <img src="/uploads/photos/research_interests/all.png" alt="alt text" width="300" /> -->
 
+- time integration of large multi scale problems
+- explicit stabilized methods
+- parallel-in-time methods
 - stochastic differential equations
 - Monte Carlo methods
-- explicit stabilized methods
-- time integration of large multi scale problems
-- parallel-in-time methods
 - optimization methods
 - mixed-precision algorithms
 - tau-leap methods for chemical kinetics
