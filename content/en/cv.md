@@ -140,9 +140,9 @@ IBM Data Science Professional Certificate
 ---
 
 #### Interests
-**Quantitative Finance:**
+<!-- **Quantitative Finance:**
 Reading Stochastic Calculus for Finance I & II, Shreve.
-<br>
+<br> -->
 **Fermentation:**
 Soy sauce, miso, beer, cheese, kefir, tempeh, kvass, ....
 
